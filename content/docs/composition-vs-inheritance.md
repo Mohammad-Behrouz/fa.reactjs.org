@@ -112,7 +112,7 @@ function WelcomeDialog() {
 
 [**روی CodePen امتحان کنید**](https://codepen.io/gaearon/pen/kkEaOZ?editors=0010)
 
-ترکیب برای کامپوننت‌هایی که بر پایه کلاس نوشته‌شده‌اند نیز به خوبی کار می‌کند:
+ترکیب برای کامپوننت‌هایی که بر پایه کلاس نوشته‌شدن هم به خوبی کار می‌کنه:
 
 ```js{10,27-31}
 function Dialog(props) {
@@ -162,7 +162,7 @@ class SignUpDialog extends React.Component {
 
 [**روی CodePen امتحان کنید**](https://codepen.io/gaearon/pen/gwZbYa?editors=0010)
 
-## پس ارث‌بری چه می‌شود؟ {#so-what-about-inheritance}
+## پس ارث‌بری چی می‌شه؟ {#so-what-about-inheritance}
 
 در Facebook ما از ری‌اکت برای ساخت هزاران کامپوننت استفاده می‌کنیم. اما هنوز موردی برای استفاده ارث‌بری پیدا نکرده‌ایم که آن را پیشنها کنیم.
 
